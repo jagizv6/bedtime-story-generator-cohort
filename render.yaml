@@ -16,7 +16,7 @@ services:
         fromDatabase:
           name: bedtime-story-db
           property: connectionString
-      - key: GEMINI_API_KEY
+      - key: yAIzaSyAQeXzT0bIn7VrdXiQzsH3GeP2DF78upHY
         sync: false   # set in the Render dashboard; never committed
 
 databases:
